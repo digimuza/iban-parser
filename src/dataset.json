@@ -1,0 +1,1507 @@
+{
+  "10100": {
+    "id": 10100,
+    "bic": "LIABLT2X",
+    "institutionName": "Bank of Lithuania",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "10101": {
+    "id": 10101,
+    "bic": "LIABLT2X",
+    "institutionName": "Bank of Lithuania",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "10110": {
+    "id": 10110,
+    "bic": "LIABLT2X",
+    "institutionName": "Bank of Lithuania",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "10900": {
+    "id": 10900,
+    "bic": "LIABLT2X",
+    "institutionName": "Bank of Lithuania",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "20900": {
+    "id": 20900,
+    "bic": "BIGKLT21",
+    "institutionName": "Bigbank AS Branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "21200": {
+    "id": 21200,
+    "bic": "HANDLT2X",
+    "institutionName": "Svenska Handelsbanken AB Lithuania branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "21400": {
+    "id": 21400,
+    "bic": "AGBLLT2X",
+    "institutionName": "Luminor Bank AS Lithuania branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "21500": {
+    "id": 21500,
+    "bic": "OKOYLT2X",
+    "institutionName": "�OP Corporate Bank plc\" Lietuvos Branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "21700": {
+    "id": 21700,
+    "bic": "MULTLT2X",
+    "institutionName": "AS \"Industra Bank\" Lietuvos Branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "22500": {
+    "id": 22500,
+    "bic": "FJORLT21",
+    "institutionName": "AB \"Fjord Bank",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "22600": {
+    "id": 22600,
+    "bic": "PYYRLT22",
+    "institutionName": "PayRay, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30200": {
+    "id": 30200,
+    "bic": "PEPGLT21",
+    "institutionName": "Perlas Finance, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30300": {
+    "id": 30300,
+    "bic": "ABLPLT21",
+    "institutionName": "AB Lietuvos pastas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30500": {
+    "id": 30500,
+    "bic": "MOTOLT21",
+    "institutionName": "Foxpay, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30600": {
+    "id": 30600,
+    "bic": "STUALT21",
+    "institutionName": "SatchelPay, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30700": {
+    "id": 30700,
+    "bic": "VAUALT21",
+    "institutionName": "Valyuz, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30800": {
+    "id": 30800,
+    "bic": "NEUALT21",
+    "institutionName": "NexPay UAB",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "30900": {
+    "id": 30900,
+    "bic": "UAWALT21",
+    "institutionName": "UAB �Walletto�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "30901": {
+    "id": 30901,
+    "bic": "UAWALT22",
+    "institutionName": "UAB �Walletto�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31000": {
+    "id": 31000,
+    "bic": "UACOLT21",
+    "institutionName": "UAB Contabilita",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31100": {
+    "id": 31100,
+    "bic": "MNNELT21",
+    "institutionName": "Maneuver LT, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31200": {
+    "id": 31200,
+    "bic": "UAPULT22",
+    "institutionName": "UAB Paytend Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31300": {
+    "id": 31300,
+    "bic": "BZENLT22",
+    "institutionName": "UAB ZEN.COM",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31400": {
+    "id": 31400,
+    "bic": "PCTULT21",
+    "institutionName": "PCS Transfer UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31500": {
+    "id": 31500,
+    "bic": "UADRLT21",
+    "institutionName": "UAB \"Drauskaita",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31600": {
+    "id": 31600,
+    "bic": "VPLALT21",
+    "institutionName": "Verse Payments Lithuania UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31700": {
+    "id": 31700,
+    "bic": "SHFRLT21",
+    "institutionName": "UAB  \"Shift Financial Services LT",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31800": {
+    "id": 31800,
+    "bic": "TBFULT21",
+    "institutionName": "TBF Finance, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31801": {
+    "id": 31801,
+    "bic": "TBFULT31",
+    "institutionName": "TBF Finance, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "31900": {
+    "id": 31900,
+    "bic": "TEUALT22",
+    "institutionName": "TeslaPay, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32000": {
+    "id": 32000,
+    "bic": "WAUALT21",
+    "institutionName": "Wallter UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32200": {
+    "id": 32200,
+    "bic": "UAPPLT21",
+    "institutionName": "UAB Phoenix Payments",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32300": {
+    "id": 32300,
+    "bic": "UIPULT21",
+    "institutionName": "International Payment Union, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32400": {
+    "id": 32400,
+    "bic": "TRLULT21",
+    "institutionName": "TransferGo Lithuania UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32500": {
+    "id": 32500,
+    "bic": "REVOLT21",
+    "institutionName": "Revolut Payments UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32600": {
+    "id": 32600,
+    "bic": "URFSLT21",
+    "institutionName": "Rebellion Fintech Services UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32700": {
+    "id": 32700,
+    "bic": "DSFELT21",
+    "institutionName": "UAB \"DSBC Financial Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32800": {
+    "id": 32800,
+    "bic": "EPSULT22",
+    "institutionName": "Earthport Payment Services UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "32900": {
+    "id": 32900,
+    "bic": "KUFULT22",
+    "institutionName": "Kuan Financial, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33000": {
+    "id": 33000,
+    "bic": "WIUALT22",
+    "institutionName": "Wittix, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33100": {
+    "id": 33100,
+    "bic": "VAAALT21",
+    "institutionName": "ValorPay UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33200": {
+    "id": 33200,
+    "bic": "SONCLT21",
+    "institutionName": "UAB \"SONECT Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33300": {
+    "id": 33300,
+    "bic": "UASILT22",
+    "institutionName": "UAB \"Silvergate LT",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33400": {
+    "id": 33400,
+    "bic": "UAUPLT22",
+    "institutionName": "UAB \"Uplata EU",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33500": {
+    "id": 33500,
+    "bic": "EPUALT22",
+    "institutionName": "UAB \"epayblock",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33700": {
+    "id": 33700,
+    "bic": "SUPULT22",
+    "institutionName": "SumUp EU Payments, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33800": {
+    "id": 33800,
+    "bic": "OPTULT22",
+    "institutionName": "Opal Transfer EU, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "33900": {
+    "id": 33900,
+    "bic": "USPELT2V",
+    "institutionName": "UAB Simplex Payment Services",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34000": {
+    "id": 34000,
+    "bic": "GUPULT22",
+    "institutionName": "UAB Guru Pay",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34100": {
+    "id": 34100,
+    "bic": "CBNULT2V",
+    "institutionName": "CBI Money UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34200": {
+    "id": 34200,
+    "bic": "BAXXLT22",
+    "institutionName": "Banxe, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34300": {
+    "id": 34300,
+    "bic": "PAUALT22",
+    "institutionName": "UAB Paystra",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34500": {
+    "id": 34500,
+    "bic": "UANILT22",
+    "institutionName": "UAB Nandi Finance",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34600": {
+    "id": 34600,
+    "bic": "NIKULT22",
+    "institutionName": "Nikulipe UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34700": {
+    "id": 34700,
+    "bic": "CLUALT22",
+    "institutionName": "Clearshift, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34800": {
+    "id": 34800,
+    "bic": "UATULT22",
+    "institutionName": "UAB Travel Union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "34900": {
+    "id": 34900,
+    "bic": "AMPULT22",
+    "institutionName": "Ambr Payments UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35000": {
+    "id": 35000,
+    "bic": "EVIULT2V",
+    "institutionName": "Paysera LT\", UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35100": {
+    "id": 35100,
+    "bic": "MIEGLT21",
+    "institutionName": "�Secure Nordic Payments� UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35200": {
+    "id": 35200,
+    "bic": "UANFLT21",
+    "institutionName": "Neo Finance\", UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35300": {
+    "id": 35300,
+    "bic": "UAPYLT21",
+    "institutionName": "UAB \"Alternative Payments",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35400": {
+    "id": 35400,
+    "bic": "UAAMLT21",
+    "institutionName": "UAB �Argentum mobile�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35500": {
+    "id": 35500,
+    "bic": "UAPELT21",
+    "institutionName": "UAB \"Pervesk",
+    "city": "Siauliai",
+    "countyCode": "LT"
+  },
+  "35501": {
+    "id": 35501,
+    "bic": "UAPELT21BKO",
+    "institutionName": "UAB �Pervesk�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35600": {
+    "id": 35600,
+    "bic": "UFUNLT22",
+    "institutionName": "UAB Finolita Unio",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35700": {
+    "id": 35700,
+    "bic": "VIPULT21",
+    "institutionName": "Via Payments, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35800": {
+    "id": 35800,
+    "bic": "MOIULT21",
+    "institutionName": "Bruc Bond, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "35900": {
+    "id": 35900,
+    "bic": "UAINLT21",
+    "institutionName": "UAB NIUM EU",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "36000": {
+    "id": 36000,
+    "bic": "UAMMLT21",
+    "institutionName": "UAB \"Mobilieji mokejimai",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "36400": {
+    "id": 36400,
+    "bic": "INHULT21",
+    "institutionName": "UAB International Fintech",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "36600": {
+    "id": 36600,
+    "bic": "UADELT21",
+    "institutionName": "UAB �deVere E-Money�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "36700": {
+    "id": 36700,
+    "bic": "UAPLLT21",
+    "institutionName": "UAB Pyrros Lithuania",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "36900": {
+    "id": 36900,
+    "bic": "TRFBLT21",
+    "institutionName": "TRUSTCOM FINANCIAL UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37000": {
+    "id": 37000,
+    "bic": "EMAULT21",
+    "institutionName": "UAB Elektroniniu mokejimu agentura",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37100": {
+    "id": 37100,
+    "bic": "SESOLT21",
+    "institutionName": "UAB  \"Seven Seas Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37101": {
+    "id": 37101,
+    "bic": "SEEOLT21",
+    "institutionName": "UAB  \"Seven Seas Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37200": {
+    "id": 37200,
+    "bic": "GLPELT21",
+    "institutionName": "UAB �Glocash Payment�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37300": {
+    "id": 37300,
+    "bic": "MAABLT21",
+    "institutionName": "Majestic Financial, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37400": {
+    "id": 37400,
+    "bic": "CNUALT21",
+    "institutionName": "UAB \"ConnectPay",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37500": {
+    "id": 37500,
+    "bic": "VEPALT21",
+    "institutionName": "Verified Payments, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37501": {
+    "id": 37501,
+    "bic": "VEPALT2X",
+    "institutionName": "Verified Payments, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "37800": {
+    "id": 37800,
+    "bic": "TRYULT21",
+    "institutionName": "Transactive Systems UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "38500": {
+    "id": 38500,
+    "bic": "GAUALT21",
+    "institutionName": "Galperin, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "38700": {
+    "id": 38700,
+    "bic": "PAEOLT21",
+    "institutionName": "UAB \"PanPay Europe",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "38800": {
+    "id": 38800,
+    "bic": "GLUALT22",
+    "institutionName": "GlobalNetint, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "38900": {
+    "id": 38900,
+    "bic": "UNECLT2V",
+    "institutionName": "UAB SAFU.COM",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "38915": {
+    "id": 38915,
+    "bic": "PMNTLT2V",
+    "institutionName": "PAYMONT, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39100": {
+    "id": 39100,
+    "bic": "IBIULT21",
+    "institutionName": "UAB  \"IBS Lithuania ",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39200": {
+    "id": 39200,
+    "bic": "REVOGB21",
+    "institutionName": "Revolut Limited",
+    "city": "London",
+    "countyCode": "LT"
+  },
+  "39600": {
+    "id": 39600,
+    "bic": "UFPOLT21",
+    "institutionName": "Contis Financial Services Ltd",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39801": {
+    "id": 39801,
+    "bic": "UALTLT22",
+    "institutionName": "UAB Lock Trust",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39802": {
+    "id": 39802,
+    "bic": "UABELT22",
+    "institutionName": "Bebawa UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39804": {
+    "id": 39804,
+    "bic": "CRVULT21",
+    "institutionName": "UAB Corporate Services",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39805": {
+    "id": 39805,
+    "bic": "OKEOLT22",
+    "institutionName": "Okeo Payments UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39806": {
+    "id": 39806,
+    "bic": "DMVOLT22",
+    "institutionName": "Demivolt, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39807": {
+    "id": 39807,
+    "bic": "CRUBLT22",
+    "institutionName": "Crius LT, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39808": {
+    "id": 39808,
+    "bic": "UANOLT22",
+    "institutionName": "NovaPay\", UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39809": {
+    "id": 39809,
+    "bic": "UAPALT22",
+    "institutionName": "UAB \"PayrNet",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39810": {
+    "id": 39810,
+    "bic": "UAAALT22",
+    "institutionName": "UAB \"H Pay & Go",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39811": {
+    "id": 39811,
+    "bic": "USTILT2V",
+    "institutionName": "UAB Stanhope Financial",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39812": {
+    "id": 39812,
+    "bic": "WIGULT22",
+    "institutionName": "WITTY GLOBAL, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39814": {
+    "id": 39814,
+    "bic": "RILALT22",
+    "institutionName": "RIA Lithuania UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "39818": {
+    "id": 39818,
+    "bic": "DIUALT22",
+    "institutionName": "UAB DiPocket",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "40100": {
+    "id": 40100,
+    "bic": "AGBLLT2X",
+    "institutionName": "Luminor Bank AS Lithuania branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50100": {
+    "id": 50100,
+    "bic": "LCKULT22",
+    "institutionName": "Lithuanian Central Credit Union",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50101": {
+    "id": 50101,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Suduvos parama",
+    "city": "Marijampole",
+    "countyCode": "LT"
+  },
+  "50102": {
+    "id": 50102,
+    "bic": "LCKULT22",
+    "institutionName": "Silutes credit union",
+    "city": "Silute",
+    "countyCode": "LT"
+  },
+  "50103": {
+    "id": 50103,
+    "bic": "LCKULT22",
+    "institutionName": "Radviliskio credit union",
+    "city": "Radviliskis",
+    "countyCode": "LT"
+  },
+  "50104": {
+    "id": 50104,
+    "bic": "LCKULT22",
+    "institutionName": "Vilkaviskio credit union",
+    "city": "Vilkaviskis",
+    "countyCode": "LT"
+  },
+  "50105": {
+    "id": 50105,
+    "bic": "LCKULT22",
+    "institutionName": "Plunges credit union",
+    "city": "Plunge",
+    "countyCode": "LT"
+  },
+  "50106": {
+    "id": 50106,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Ebitum",
+    "city": "Siauliai",
+    "countyCode": "LT"
+  },
+  "50108": {
+    "id": 50108,
+    "bic": "LCKULT22",
+    "institutionName": "ARKU kredito unija",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50109": {
+    "id": 50109,
+    "bic": "JCKULT21",
+    "institutionName": "Akademine credit union",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50110": {
+    "id": 50110,
+    "bic": "LCKULT22",
+    "institutionName": "Panevezio credit union",
+    "city": "Panevezys",
+    "countyCode": "LT"
+  },
+  "50111": {
+    "id": 50111,
+    "bic": "LCKULT22",
+    "institutionName": "Centro credit union",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50112": {
+    "id": 50112,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Tikroji viltis",
+    "city": "Naujoji Akmene",
+    "countyCode": "LT"
+  },
+  "50113": {
+    "id": 50113,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Germanto lobis",
+    "city": "Telsiai",
+    "countyCode": "LT"
+  },
+  "50114": {
+    "id": 50114,
+    "bic": "JCKULT21",
+    "institutionName": "Credit union \"Kupiskenu taupa",
+    "city": "Kupiskis",
+    "countyCode": "LT"
+  },
+  "50115": {
+    "id": 50115,
+    "bic": "LCKULT22",
+    "institutionName": "Sirvintu credit union",
+    "city": "Sirvintos",
+    "countyCode": "LT"
+  },
+  "50117": {
+    "id": 50117,
+    "bic": "JCKULT21",
+    "institutionName": "Credit union Zanavyku bankelis",
+    "city": "Sakiai",
+    "countyCode": "LT"
+  },
+  "50118": {
+    "id": 50118,
+    "bic": "LCKULT22",
+    "institutionName": "Vytauto Dodziojo credit union",
+    "city": "Kaisiadorys",
+    "countyCode": "LT"
+  },
+  "50119": {
+    "id": 50119,
+    "bic": "LCKULT22",
+    "institutionName": "Pakruojo ukininku credit union",
+    "city": "Pakruojis",
+    "countyCode": "LT"
+  },
+  "50120": {
+    "id": 50120,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Vievio taupa",
+    "city": "Elektrenai",
+    "countyCode": "LT"
+  },
+  "50121": {
+    "id": 50121,
+    "bic": "JCKULT21",
+    "institutionName": "Aukstaitijos credit union",
+    "city": "Panevezys",
+    "countyCode": "LT"
+  },
+  "50122": {
+    "id": 50122,
+    "bic": "LCKULT22",
+    "institutionName": "Kelmes credit union",
+    "city": "Kelme",
+    "countyCode": "LT"
+  },
+  "50123": {
+    "id": 50123,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Prienu taupa",
+    "city": "Prienai",
+    "countyCode": "LT"
+  },
+  "50124": {
+    "id": 50124,
+    "bic": "LCKULT22",
+    "institutionName": "Pasvalio credit union",
+    "city": "Pasvalys",
+    "countyCode": "LT"
+  },
+  "50125": {
+    "id": 50125,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"DELTA",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50126": {
+    "id": 50126,
+    "bic": "JCKULT21",
+    "institutionName": "Birzu credit union",
+    "city": "Birzai",
+    "countyCode": "LT"
+  },
+  "50127": {
+    "id": 50127,
+    "bic": "LCKULT22",
+    "institutionName": "Kauno credit union",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50128": {
+    "id": 50128,
+    "bic": "LCKULT22",
+    "institutionName": "Taurages credit union",
+    "city": "Taurage",
+    "countyCode": "LT"
+  },
+  "50129": {
+    "id": 50129,
+    "bic": "JCKULT21",
+    "institutionName": "Silales credit union",
+    "city": "Silale",
+    "countyCode": "LT"
+  },
+  "50130": {
+    "id": 50130,
+    "bic": "LCKULT22",
+    "institutionName": "Anyksciu credit union",
+    "city": "Anyksciai",
+    "countyCode": "LT"
+  },
+  "50131": {
+    "id": 50131,
+    "bic": "LCKULT22",
+    "institutionName": "Achemos\" credit union",
+    "city": "Jonalaukis",
+    "countyCode": "LT"
+  },
+  "50132": {
+    "id": 50132,
+    "bic": "LCKULT22",
+    "institutionName": "Jonavos credit union",
+    "city": "Jonava",
+    "countyCode": "LT"
+  },
+  "50133": {
+    "id": 50133,
+    "bic": "LCKULT22",
+    "institutionName": "Jurbarko credit union",
+    "city": "Jurbarkas",
+    "countyCode": "LT"
+  },
+  "50134": {
+    "id": 50134,
+    "bic": "LCKULT22",
+    "institutionName": "Ukmerges Ukininku credit union",
+    "city": "Ukmerge",
+    "countyCode": "LT"
+  },
+  "50135": {
+    "id": 50135,
+    "bic": "LCKULT22",
+    "institutionName": "Kauno District credit union",
+    "city": "Vilkija",
+    "countyCode": "LT"
+  },
+  "50136": {
+    "id": 50136,
+    "bic": "LCKULT22",
+    "institutionName": "Palangos credit union",
+    "city": "Palanga",
+    "countyCode": "LT"
+  },
+  "50138": {
+    "id": 50138,
+    "bic": "LCKULT22",
+    "institutionName": "Kretingos credit union",
+    "city": "Kretinga",
+    "countyCode": "LT"
+  },
+  "50139": {
+    "id": 50139,
+    "bic": "JCKULT21",
+    "institutionName": "Raseiniu credit union",
+    "city": "Raseiniai",
+    "countyCode": "LT"
+  },
+  "50140": {
+    "id": 50140,
+    "bic": "LCKULT22",
+    "institutionName": "Pagegiu credit union",
+    "city": "Pagegiai",
+    "countyCode": "LT"
+  },
+  "50144": {
+    "id": 50144,
+    "bic": "JCKULT21",
+    "institutionName": "Ignalinos credit union",
+    "city": "Ignalina",
+    "countyCode": "LT"
+  },
+  "50145": {
+    "id": 50145,
+    "bic": "LCKULT22",
+    "institutionName": "Utenos credit union",
+    "city": "Utena",
+    "countyCode": "LT"
+  },
+  "50146": {
+    "id": 50146,
+    "bic": "LCKULT22",
+    "institutionName": "Mazeikiu credit union",
+    "city": "Mazeikiai",
+    "countyCode": "LT"
+  },
+  "50147": {
+    "id": 50147,
+    "bic": "JCKULT21",
+    "institutionName": "Joniskio credit union",
+    "city": "Joniskis",
+    "countyCode": "LT"
+  },
+  "50149": {
+    "id": 50149,
+    "bic": "LCKULT22",
+    "institutionName": "Druskininku credit union",
+    "city": "Druskininkai",
+    "countyCode": "LT"
+  },
+  "50151": {
+    "id": 50151,
+    "bic": "LCKULT22",
+    "institutionName": "Traku credit union",
+    "city": "Trakai",
+    "countyCode": "LT"
+  },
+  "50152": {
+    "id": 50152,
+    "bic": "LCKULT22",
+    "institutionName": "Alytaus credit union",
+    "city": "Alytus",
+    "countyCode": "LT"
+  },
+  "50153": {
+    "id": 50153,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Gargzdu taupa",
+    "city": "Gargzdai",
+    "countyCode": "LT"
+  },
+  "50154": {
+    "id": 50154,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Memelio taupomoji kasa",
+    "city": "Klaipeda",
+    "countyCode": "LT"
+  },
+  "50156": {
+    "id": 50156,
+    "bic": "LCKULT22",
+    "institutionName": "Grigiskiu credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50159": {
+    "id": 50159,
+    "bic": "LCKULT22",
+    "institutionName": "Kedainiu krasto credit union",
+    "city": "Kedainiai",
+    "countyCode": "LT"
+  },
+  "50160": {
+    "id": 50160,
+    "bic": "VRKULT21",
+    "institutionName": "Rato credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50162": {
+    "id": 50162,
+    "bic": "JCKULT21",
+    "institutionName": "Pareigunu credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50163": {
+    "id": 50163,
+    "bic": "LCKULT22",
+    "institutionName": "Klaipedos credit union",
+    "city": "Klaipeda",
+    "countyCode": "LT"
+  },
+  "50164": {
+    "id": 50164,
+    "bic": "JCKULT21",
+    "institutionName": "Gyventoju ir smulkaus verslo credit union",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "50165": {
+    "id": 50165,
+    "bic": "LCKULT22",
+    "institutionName": "Seimos  credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50166": {
+    "id": 50166,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Neris",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50167": {
+    "id": 50167,
+    "bic": "LCKULT22",
+    "institutionName": "Vilniaus credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50168": {
+    "id": 50168,
+    "bic": "LCKULT22",
+    "institutionName": "Credit union \"Magnus",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50200": {
+    "id": 50200,
+    "bic": "JCKULT21",
+    "institutionName": "Jungtine centrine kredito unija",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50300": {
+    "id": 50300,
+    "bic": "KUSRLT21",
+    "institutionName": "AB \"Mano bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50301": {
+    "id": 50301,
+    "bic": "KUSRLT24",
+    "institutionName": "AB \"Mano bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50500": {
+    "id": 50500,
+    "bic": "KRUALT21",
+    "institutionName": "Credit union \"Taupa",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "50800": {
+    "id": 50800,
+    "bic": "VIKULT21",
+    "institutionName": "Vilniaus  credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "51400": {
+    "id": 51400,
+    "bic": "KUPRLT21",
+    "institutionName": "Credit union \"Magnus",
+    "city": "Panevezys",
+    "countyCode": "LT"
+  },
+  "51500": {
+    "id": 51500,
+    "bic": "LTKULT21",
+    "institutionName": "LTL  credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "51700": {
+    "id": 51700,
+    "bic": "CRUGLT21",
+    "institutionName": "Credit union �Saulegraza�",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "51900": {
+    "id": 51900,
+    "bic": "VRKULT21",
+    "institutionName": "Rato credit union",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "60024": {
+    "id": 60024,
+    "bic": "GRFNLT21",
+    "institutionName": "GF bankas, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "70440": {
+    "id": 70440,
+    "bic": "CBVILT2X",
+    "institutionName": "AB SEB bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "70500": {
+    "id": 70500,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Siauliai",
+    "countyCode": "LT"
+  },
+  "70700": {
+    "id": 70700,
+    "bic": "RETBLT21",
+    "institutionName": "Revolut Bank, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "70701": {
+    "id": 70701,
+    "bic": "RVUALT2V",
+    "institutionName": "Revolut Bank, UAB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "71100": {
+    "id": 71100,
+    "bic": "EUEBLT22",
+    "institutionName": "European Merchant Bank",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "71800": {
+    "id": 71800,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Siauliai",
+    "countyCode": "LT"
+  },
+  "71802": {
+    "id": 71802,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Kelme",
+    "countyCode": "LT"
+  },
+  "71803": {
+    "id": 71803,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "71804": {
+    "id": 71804,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Kursenai",
+    "countyCode": "LT"
+  },
+  "71805": {
+    "id": 71805,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Klaipeda",
+    "countyCode": "LT"
+  },
+  "71806": {
+    "id": 71806,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Palanga",
+    "countyCode": "LT"
+  },
+  "71807": {
+    "id": 71807,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Silute",
+    "countyCode": "LT"
+  },
+  "71808": {
+    "id": 71808,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Mazeikiai",
+    "countyCode": "LT"
+  },
+  "71809": {
+    "id": 71809,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Kaunas",
+    "countyCode": "LT"
+  },
+  "71810": {
+    "id": 71810,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Vilkaviskis",
+    "countyCode": "LT"
+  },
+  "71811": {
+    "id": 71811,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Utena",
+    "countyCode": "LT"
+  },
+  "71812": {
+    "id": 71812,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Alytus",
+    "countyCode": "LT"
+  },
+  "71813": {
+    "id": 71813,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Taurage",
+    "countyCode": "LT"
+  },
+  "71814": {
+    "id": 71814,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Radviliskis",
+    "countyCode": "LT"
+  },
+  "71815": {
+    "id": 71815,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Panevezys",
+    "countyCode": "LT"
+  },
+  "71816": {
+    "id": 71816,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Birstonas",
+    "countyCode": "LT"
+  },
+  "71817": {
+    "id": 71817,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Telsiai",
+    "countyCode": "LT"
+  },
+  "71818": {
+    "id": 71818,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Marijampole",
+    "countyCode": "LT"
+  },
+  "71819": {
+    "id": 71819,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Druskininkai",
+    "countyCode": "LT"
+  },
+  "71820": {
+    "id": 71820,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Plunge",
+    "countyCode": "LT"
+  },
+  "71821": {
+    "id": 71821,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Anyksciai",
+    "countyCode": "LT"
+  },
+  "71822": {
+    "id": 71822,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Visaginas",
+    "countyCode": "LT"
+  },
+  "71823": {
+    "id": 71823,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Kedainiai",
+    "countyCode": "LT"
+  },
+  "71824": {
+    "id": 71824,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Ukmerge",
+    "countyCode": "LT"
+  },
+  "71825": {
+    "id": 71825,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Birzai",
+    "countyCode": "LT"
+  },
+  "71826": {
+    "id": 71826,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Jonava",
+    "countyCode": "LT"
+  },
+  "71827": {
+    "id": 71827,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Zarasai",
+    "countyCode": "LT"
+  },
+  "71828": {
+    "id": 71828,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Rokiskis",
+    "countyCode": "LT"
+  },
+  "71829": {
+    "id": 71829,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Kupiskis",
+    "countyCode": "LT"
+  },
+  "71830": {
+    "id": 71830,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Raseiniai",
+    "countyCode": "LT"
+  },
+  "71899": {
+    "id": 71899,
+    "bic": "CBSBLT26",
+    "institutionName": "AB Siauliu bankas",
+    "city": "Siauliai",
+    "countyCode": "LT"
+  },
+  "72300": {
+    "id": 72300,
+    "bic": "MDBALT22",
+    "institutionName": "UAB Medicinos bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "72900": {
+    "id": 72900,
+    "bic": "INDULT2X",
+    "institutionName": "AB \"Citadele\" bankas",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "73000": {
+    "id": 73000,
+    "bic": "HABALT22",
+    "institutionName": "Swedbank\", AB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "74000": {
+    "id": 74000,
+    "bic": "SMPOLT22",
+    "institutionName": "Danske Bank A/S Lietuvos Branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "74100": {
+    "id": 74100,
+    "bic": "USDFLT22",
+    "institutionName": "UAB SME Bank",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "90577": {
+    "id": 90577,
+    "bic": "CSDLLT22577",
+    "institutionName": "Nasdaq CSD SE Lithuania branch",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "91001": {
+    "id": 91001,
+    "bic": "UFOSLT22",
+    "institutionName": "Orion Securities, UAB FMI",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  },
+  "91002": {
+    "id": 91002,
+    "bic": "STEKLT21",
+    "institutionName": "Macte Invest FM AB",
+    "city": "Vilnius",
+    "countyCode": "LT"
+  }
+}
