@@ -44,7 +44,8 @@
     "build": "rm -rf lib && tsc --build",
     "format": "prettier --write \"**/src/**/*.ts\"",
     "watch": "yarn link && tsc --watch",
-    "test": "jest"
+    "test": "jest",
+    "publish": "node publish.mjs"
   },
   "author": "digimuza",
   "license": "MIT",
