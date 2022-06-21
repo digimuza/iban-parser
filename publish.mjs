@@ -9,6 +9,7 @@ async function Publish() {
 	const pub = {
 		name: packageJSON.name,
 		version: newVersion,
+		publishConfig: packageJSON.publishConfig,
 		main: 'lib/index.js',
 		typings: 'lib/index.d.ts',
 		dependencies: packageJSON.dependencies,
